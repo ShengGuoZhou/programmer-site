@@ -19,7 +19,7 @@
 
 
 
-<h1 id='what-should-a-programmer-know'>一个程序员应该知道的东西</h1>
+<h1 id='what-should-a-programmer-know'>程序员应该知道的东西</h1>
  
   * [GitHub.com Build software better, together](https://github.com) : 向其他人展示你的项目和与人协作的地方（为了更高效的使用它必须知道Git）
   * [Gitlab提供无限制的私有库，和无限制的组织](https://about.gitlab.com)
