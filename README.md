@@ -23,10 +23,9 @@
 
 <h1 id='what-should-a-programmer-know'>程序员应该知道的东西</h1>
  
-  * [GitHub.com Build software better, together](https://github.com) : 向其他人展示你的项目和与人协作的地方（为了更高效的使用它必须知道Git）
   * [Gitlab提供无限制的私有库，和无限制的组织](https://about.gitlab.com)
   * [程序员能力矩阵](http://sijinjoseph.com/programmer-competency-matrix/) :  一篇用来了解我们作为程序员的水平的文章
 
 
-<h1 id='technical-community'>程序员应该知道的东西</h1>
-* [GitHub](https://github.com/):全球最大的开发者平台，提供代码托管服务，开源产品或商业产品均可使用。
+<h1 id='technical-community'>技术社区</h1>
+* [GitHub](https://github.com) :全球最大的开发者平台，提供代码托管服务，开源产品或商业产品均可使用。向其他人展示你的项目和与人协作的地方。
