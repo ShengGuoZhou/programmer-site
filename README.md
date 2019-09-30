@@ -20,6 +20,7 @@
 
 
 <h1 id='what-should-a-programmer-know'>程序员应该知道的东西</h1>
+
   * [Gitlab提供无限制的私有库，和无限制的组织](https://about.gitlab.com)
   * [程序员能力矩阵](http://sijinjoseph.com/programmer-competency-matrix/) :  一篇用来了解我们作为程序员的水平的文章
 
