@@ -17,6 +17,7 @@
 * [资讯](#information)
 * [工具](#tool)
 * [在线学习](#online-learning)
+* [电子书](#eBook)
 
 
 
@@ -88,3 +89,11 @@
   * [淘宝教育](https://xue.taobao.com/) :  综合性的在线教育平台，有一部分IT类视频课程。
   * [tutorialspoint](http://www.tutorialspoint.com/) :  各种编程语言和技术框架的入门图文教程。
   * [W3school](http://www.w3school.com.cn/) :  领先的Web技术教程。
+  
+  <h1 id='eBook'>电子书</h1>
+  电子书资源
+  
+    * [雅书](https://yabook.org/) :  PDF电子书下载网站，有很多分类的电子书可以下载。
+  
+  
+  
