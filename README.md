@@ -21,12 +21,15 @@
 
 
 <h1 id='what-should-a-programmer-know'>程序员应该知道的东西</h1>
-程序员修养
+程序员修养，每个程序员都应该具备的。
+
   * [Gitlab提供无限制的私有库，和无限制的组织](https://about.gitlab.com)
   * [程序员能力矩阵](http://sijinjoseph.com/programmer-competency-matrix/) :  一篇用来了解程序员的水平的文章
 
 
 <h1 id='technical-community'>技术社区</h1>
+
+
   * [GitHub](https://github.com) :全球最大的开发者平台，提供代码托管服务，开源产品或商业产品均可使用。
   * [Stack Overflow](https://stackoverflow.com/) :最专业的编程技术问答网站，你遇到的大部分问题，可以在这里找到解答。
   * [CSDN](https://www.csdn.net/) :国内最大的专业IT技术社区，包罗万象，涵盖业界资讯、技术博客、技术论坛、在线课程等等。
@@ -56,6 +59,8 @@
 
 
 <h1 id='tool'>工具</h1>
+经常使用到的工具
+
   *  [Google](https://www.google.com) :  最好的搜索引擎，没有之一，专业技术问题检索。
   * [IT桔子](https://www.itjuzi.com/) :  查看IT领域的投融资新闻，可以分析行业趋势。
   * [天眼查](https://www.tianyancha.com/) :  查询企业信息，包括法人、股东、经营范围、融资历程、竞品等。
@@ -67,6 +72,8 @@
   * [开源中国的在线代码格式化](http://tool.oschina.net/codeformat/js/) :  支持JS、HTML、XML、CSS、JSON、SQL、Java等。
 
 <h1 id='online-learning'>在线学习</h1>
+在线学习
+
   * [CSDN学院](https://edu.csdn.net/) :  CSDN旗下的学院，主要针对开发者，有大量专业的收费视频课程。
   * [GitChat](https://gitbook.cn/) :  CSDN旗下的在线教育网站，以图文教程为主，分Chat和达人课两类。
   * [知乎Live](https://www.zhihu.com/lives) :  知乎的专业语音直播平台，覆盖360行，有不少IT领域的Live小讲，还有不少职场技能。
